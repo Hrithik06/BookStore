@@ -1,0 +1,155 @@
+[
+    {
+      "bookTitle": "Life of Pi",
+      "authorName": "Yann Martel",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631251689i/4214.jpg",
+      "category": "Fantasy",
+      "bookDescription": "Life of Pi is a fantasy adventure novel by Yann Martel published in 2001. The protagonist, Piscine Molitor 'Pi' Patel, a Tamil boy from Pondicherry, explores issues of spirituality and practicality from an early age. He survives 227 days after a shipwreck while stranded on a boat in the Pacific Ocean with a Bengal tiger named Richard Parker.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/4214.Life_of_Pi"
+    },
+    {
+      "bookTitle": "1984",
+      "authorName": "George Orwell",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71J8ndzi8GL.jpg",
+      "category": "Dystopian",
+      "bookDescription": "1984 is a dystopian novel by George Orwell published in 1949. It follows Winston Smith, a low-ranking member of the Party, who lives in a surveillance state where independent thought is banned.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/5470.1984"
+    },
+    {
+      "bookTitle": "To Kill a Mockingbird",
+      "authorName": "Harper Lee",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51hU+YOeTAL.jpg",
+      "category": "Classic",
+      "bookDescription": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It explores themes of racial injustice and the loss of innocence in the American South. The story is narrated by a young girl named Scout Finch.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird"
+    },
+    {
+      "bookTitle": "The Great Gatsby",
+      "authorName": "F. Scott Fitzgerald",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81vZBFw9oWL.jpg",
+      "category": "Classic",
+      "bookDescription": "The Great Gatsby is a novel by F. Scott Fitzgerald published in 1925. Set in the Jazz Age on Long Island, it depicts the decadence and excess of the wealthy elite. The story is narrated by Nick Carraway, who becomes entangled in the lives of his wealthy neighbor Jay Gatsby and his cousin Daisy Buchanan.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/4671.The_Great_Gatsby"
+    },
+    {
+      "bookTitle": "Pride and Prejudice",
+      "authorName": "Jane Austen",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81pv4J7zTbL.jpg",
+      "category": "Classic",
+      "bookDescription": "Pride and Prejudice is a novel by Jane Austen published in 1813. It follows the emotional development of the protagonist Elizabeth Bennet as she navigates issues of morality, marriage, and social status in the society of the landed gentry in early 19th-century England.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice"
+    },
+    {
+      "bookTitle": "The Catcher in the Rye",
+      "authorName": "J.D. Salinger",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71UrDd08XFL.jpg",
+      "category": "Classic",
+      "bookDescription": "The Catcher in the Rye is a novel by J.D. Salinger published in 1951. It follows Holden Caulfield, a disenchanted teenager, as he wanders through New York City after being expelled from prep school.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye"
+    },
+    {
+      "bookTitle": "Harry Potter and the Sorcerer's Stone",
+      "authorName": "J.K. Rowling",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81iqZ2HHD-L.jpg",
+      "category": "Fantasy",
+      "bookDescription": "Harry Potter and the Sorcerer's Stone is the first book in the Harry Potter series by J.K. Rowling published in 1997. It follows the journey of a young wizard, Harry Potter, as he discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone"
+    },
+    {
+      "bookTitle": "The Hobbit",
+      "authorName": "J.R.R. Tolkien",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51w6JNxTyxL.jpg",
+      "category": "Fantasy",
+      "bookDescription": "The Hobbit, or There and Back Again, is a fantasy novel by J.R.R. Tolkien published in 1937. It follows the journey of Bilbo Baggins, a hobbit who embarks on an epic quest to reclaim the Lonely Mountain and its treasure from the dragon Smaug.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again"
+    },
+    {
+      "bookTitle": "The Lord of the Rings",
+      "authorName": "J.R.R. Tolkien",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91AyJ6VqT9L.jpg",
+      "category": "Fantasy",
+      "bookDescription": "The Lord of the Rings is a high fantasy epic by J.R.R. Tolkien published in three volumes from 1954 to 1955. It follows the quest to destroy the One Ring, which was forged by the Dark Lord Sauron to control Middle-earth's peoples.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings"
+    },
+    {
+      "bookTitle": "A Game of Thrones",
+      "authorName": "George R.R. Martin",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81vpsIsOV1L.jpg",
+      "category": "Fantasy",
+      "bookDescription": "A Game of Thrones is the first book in the A Song of Ice and Fire series by George R.R. Martin published in 1996. It follows the power struggles among noble families as they vie for control of the Iron Throne of the Seven Kingdoms of Westeros.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones"
+    },
+    {
+      "bookTitle": "The Da Vinci Code",
+      "authorName": "Dan Brown",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71aUQs6e9YL.jpg",
+      "category": "Thriller",
+      "bookDescription": "The Da Vinci Code is a mystery thriller novel by Dan Brown published in 2003. It follows symbologist Robert Langdon and cryptologist Sophie Neveu as they investigate a murder in the Louvre Museum and uncover a conspiracy surrounding the works of Leonardo da Vinci.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/968.The_Da_Vinci_Code"
+    },
+    {
+      "bookTitle": "The Hunger Games",
+      "authorName": "Suzanne Collins",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51ZLMqT5Z7L.jpg",
+      "category": "Dystopian",
+      "bookDescription": "The Hunger Games is the first book in The Hunger Games trilogy by Suzanne Collins published in 2008. It takes place in a dystopian future where children from impoverished districts are selected to participate in a televised battle to the death.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+    },
+    {
+      "bookTitle": "The Girl with the Dragon Tattoo",
+      "authorName": "Stieg Larsson",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51a-SSW9Y7L.jpg",
+      "category": "Mystery",
+      "bookDescription": "The Girl with the Dragon Tattoo is a psychological thriller novel by Stieg Larsson published in 2005. It follows journalist Mikael Blomkvist and hacker Lisbeth Salander as they investigate a decades-old disappearance.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo"
+    },
+    {
+      "bookTitle": "The Road",
+      "authorName": "Cormac McCarthy",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81s86OFSBWL.jpg",
+      "category": "Post-apocalyptic",
+      "bookDescription": "The Road is a post-apocalyptic novel by Cormac McCarthy published in 2006. It follows a father and son journeying across a scorched America devastated by an unspecified cataclysm.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/6288.The_Road"
+    },
+    {
+      "bookTitle": "The Alchemist",
+      "authorName": "Paulo Coelho",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91uwocAMtSL.jpg",
+      "category": "Fantasy",
+      "bookDescription": "The Alchemist is a novel by Paulo Coelho published in 1988. It follows Santiago, an Andalusian shepherd boy, as he embarks on a journey to find a hidden treasure in Egypt after having a recurring dream.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/865.The_Alchemist"
+    },
+    {
+      "bookTitle": "The Martian",
+      "authorName": "Andy Weir",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81OTYGj7CnL.jpg",
+      "category": "Science Fiction",
+      "bookDescription": "The Martian is a science fiction novel by Andy Weir published in 2011. It follows astronaut Mark Watney, who is stranded on Mars and must use his ingenuity to survive while NASA works to rescue him.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/18007564-the-martian"
+    },
+    {
+      "bookTitle": "Dune",
+      "authorName": "Frank Herbert",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71mlo7LkRRL.jpg",
+      "category": "Science Fiction",
+      "bookDescription": "Dune is a science fiction novel by Frank Herbert published in 1965. It is set in the distant future amidst a feudal interstellar society where noble houses control planets and a valuable spice called melange is the most sought-after commodity.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/44767458-dune"
+    },
+    {
+      "bookTitle": "Brave New World",
+      "authorName": "Aldous Huxley",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81UOazb8cfL.jpg",
+      "category": "Dystopian",
+      "bookDescription": "Brave New World is a dystopian novel by Aldous Huxley published in 1932. It is set in a futuristic World State where citizens are engineered through artificial wombs and programmed for predetermined roles.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+    },
+    {
+      "bookTitle": "The Handmaid's Tale",
+      "authorName": "Margaret Atwood",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578028274i/38447.jpg",
+      "category": "Dystopian",
+      "bookDescription": "The Handmaid's Tale is a dystopian novel by Margaret Atwood published in 1985. It is set in the near future in a totalitarian society where women are subjugated and used for reproductive purposes.",
+      "bookPdfUrl": "https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale"
+    }
+  ]
+  
